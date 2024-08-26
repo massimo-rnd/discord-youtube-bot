@@ -24,9 +24,9 @@ public class Settings {
         }
 
         discordToken = botProperties.getProperty("discordToken");
-        dcytChannel = botProperties.getProperty("rssChannel");
+        dcytChannel = botProperties.getProperty("dcytChannel");
         postFile = botProperties.getProperty("postFile");
-        ytToken = botProperties.getProperty("rssUrl");
+        ytToken = botProperties.getProperty("ytToken");
         channelId = botProperties.getProperty("channelId");
     }
 }
