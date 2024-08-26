@@ -38,7 +38,7 @@ To get started with this project, download the latest release from the [Releases
 
 Put the .jar File onto your server and prepare get a [Discord-Bot-Token](https://discord.com/developers/applications) and the [Channel-ID](https://docs.statbot.net/docs/faq/general/how-find-id/) of the desired Channel.
 
-Fill in all the required information for the bot.properties file (including a [YouTube API Key](https://discord.com/developers/applications)) and launch the bot:
+Fill in all the required information for the bot.properties file (including a [YouTube API Key](https://developers.google.com/youtube/v3/getting-started)) and launch the bot:
 
 ```bash
 java -jar discord-youtube-bot.jar
