@@ -34,7 +34,7 @@ This Discord-Bot enables you to send all the links from a YouTube Channel into a
 
 *Make sure to have a Java Installation on your System (at least Java 17)*
 
-To get started with this project, download the latest release from the [Releases Page](https://github.com/druffko-gg/discord-rss-bot/releases)
+To get started with this project, download the latest release from the [Releases Page](https://github.com/druffko/discord-rss-bot/releases)
 
 Put the .jar File onto your server and prepare get a [Discord-Bot-Token](https://discord.com/developers/applications) and the [Channel-ID](https://docs.statbot.net/docs/faq/general/how-find-id/) of the desired Channel.
 
@@ -67,6 +67,6 @@ This project is licensed under the [GPL 3.0 License](LICENSE).
 ## Contact
 
 - **druffko** - [@druffko](https://twitter.com/druffko) - hi@druffko.gg
-- **Project Link** - https://github.com/druffko-gg/discord-youtube-bot
+- **Project Link** - https://github.com/druffko/discord-youtube-bot
 
 Feel free to reach out if you have any questions or suggestions!
