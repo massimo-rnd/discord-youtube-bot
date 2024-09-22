@@ -1,3 +1,4 @@
+![Repo-Image](https://druffko.gg/github-images/youtube-bot.png)
 
 # Discord-YouTube-Bot
 
